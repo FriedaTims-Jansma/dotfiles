@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = friedajansma@gmail.com
+	name = frieda tims jansma
